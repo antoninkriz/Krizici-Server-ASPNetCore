@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriziciServer.Api", "KriziciServer.Api\KriziciServer.Api.csproj", "{122C12CA-6123-4E19-915B-FAEAB0AA8929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriziciServer.Common", "KriziciServer.Common\KriziciServer.Common.csproj", "{217DF798-CABF-4E0A-8FB0-FAA7A384967D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriziciServer.Services.Auth", "KriziciServer.Services.Auth\KriziciServer.Services.Auth.csproj", "{8E6F157B-2DA9-408B-BEF3-CFA393967AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriziciServer.Services.Data", "KriziciServer.Services.Data\KriziciServer.Services.Data.csproj", "{DC1423EE-2D5B-4849-87FE-0921C7DEB1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122C12CA-6123-4E19-915B-FAEAB0AA8929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122C12CA-6123-4E19-915B-FAEAB0AA8929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122C12CA-6123-4E19-915B-FAEAB0AA8929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122C12CA-6123-4E19-915B-FAEAB0AA8929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217DF798-CABF-4E0A-8FB0-FAA7A384967D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217DF798-CABF-4E0A-8FB0-FAA7A384967D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217DF798-CABF-4E0A-8FB0-FAA7A384967D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217DF798-CABF-4E0A-8FB0-FAA7A384967D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6F157B-2DA9-408B-BEF3-CFA393967AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6F157B-2DA9-408B-BEF3-CFA393967AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6F157B-2DA9-408B-BEF3-CFA393967AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6F157B-2DA9-408B-BEF3-CFA393967AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1423EE-2D5B-4849-87FE-0921C7DEB1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1423EE-2D5B-4849-87FE-0921C7DEB1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1423EE-2D5B-4849-87FE-0921C7DEB1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1423EE-2D5B-4849-87FE-0921C7DEB1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
